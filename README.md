@@ -21,3 +21,9 @@ pip install numpy matplotlib
 4. Executar o script
 Rode o código Python para visualizar os resultados comparativos no terminal e o gráfico de convergência:
 python algoritmos.py
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o como abaixo."
+authors:
+- family-names: "Soares"
+  given-names: "Lindraci"
+  orcid: "0009000247655955
