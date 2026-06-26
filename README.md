@@ -21,6 +21,10 @@ pip install numpy matplotlib
 4. Executar o script
 Rode o código Python para visualizar os resultados comparativos no terminal e o gráfico de convergência:
 python algoritmos.py
+title: "Otimização de Algoritmos: Balanceamento de Carga em Firewalls"
+version: 1.0.0
+date-released: 2026-06-26
+url: "https://github.com"
 cff-version: 1.2.0
 message: "Se você usar este software, por favor cite-o como abaixo."
 authors:
